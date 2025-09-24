@@ -2,6 +2,8 @@
 color: white;
 backgroud: black;
  margin : opx;
+ font-family: "Chakra Petch", sans-serif;
+ margin-bottom: 100px
  }
  heder {
     border-bottom : solid 2px rgb (42, 122, 228);
